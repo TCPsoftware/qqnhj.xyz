@@ -1,4 +1,4 @@
-# qqnhj.xyz
+﻿# qqnhj.xyz
 <strong>qqnhj.xyz/qq1.php	js_API</strong><br>
 a	str		病毒js代码<br>
 b	str		yx<br>
@@ -8,3 +8,5 @@ p	str		客户端ua类型<br>
 x	str		"787SDF524pqo"，解密密钥？<br>
 <strong>qqnhj.xyz/a-明文.txt</strong><br>
 一个有毒的js代码，作用尚未知。<br>
+<br>
+压缩包的解压密码是“qqnhj.xyz”
